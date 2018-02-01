@@ -1,6 +1,6 @@
 # Multiownable
 
-[![Build Status](https://travis-ci.org/bitclave/Multiownable.svg?branch=master)](https://travis-ci.org/bitclave/Multiownable)
+[![Build Status](https://travis-ci.org/MoneyToken/MTSmartContract?branch=master)](https://travis-ci.org/bitclave/Multiownable)
 [![Coverage Status](https://coveralls.io/repos/github/bitclave/Multiownable/badge.svg)](https://coveralls.io/github/bitclave/Multiownable)
 
 BitClave implementation of Multiownable contract as improvement to OpenZeppelin Ownable contract
